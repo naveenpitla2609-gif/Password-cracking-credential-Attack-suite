@@ -83,7 +83,7 @@ To mitigate the credential attack vectors simulated within this suite, implement
 * **Enforce Rate Limiting & Account Lockouts:** Deploy account lockout thresholds and exponential back-off delays on API endpoints to break high-velocity automated multi-threaded attack streams.
 * **Establish Continuous Monitoring:** Configure localized host logs and web gateway proxy alerts to actively flag repetitive HTTP 401/403 status anomalies and unauthorized system hive read attempts.
 
-  ---
+---
   
 ## ⚠️  Authorization Notice & Disclaimer
 All testing activities within this suite are designed strictly for authorized, controlled laboratory environments. Unauthorized deployment against external networks is strictly prohibited.
