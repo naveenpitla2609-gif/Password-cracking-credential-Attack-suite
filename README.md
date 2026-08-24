@@ -60,10 +60,10 @@ pip install -r requirements.txt
 *(Include active terminal execution flows here)*
 
 *Flask Authentication Laboratory Web UI:*
-  ![Design UI 1](Bruite_Force_Simulator/Python%20scrrenshots/Design%20UI%201.png)
+ ![Terminal 1](Bruite_Force_Simulator/Python%20scrrenshots/Terminal%201.png)
 
 *Burp Suite Proxy Interception Framework:*
-  ![Login 2](Bruite_Force_Simulator/Burpsuite%20screenshots/Login%202.jpg)
+ ![login 3](Bruite_Force_Simulator/Burpsuite%20screenshots/login%203.jpg)
 
 ---
 
