@@ -4,7 +4,7 @@ A comprehensive, modular cybersecurity testing suite developed during an interns
 
 ## 📌 Project Overview
 
----
+This native, modular cybersecurity framework is designed to automate the lifecycle of credential vulnerability testing and defensive baseline analytics within controlled laboratory environments. The framework integrates advanced custom dictionary generation engines with offline cryptographic hash extraction modules to evaluate the resistance of authentication schemas against brute-force vector matrices. By embedding a localized Flask-driven web target loop, the system simulates real-world attack flows and enables clean traffic analysis through upstream proxy auditing suites like Burp Suite. Furthermore, the architecture implements predictive threat calculation models using Shannon Entropy metrics to profile offline crack-time variables against enterprise password policies. All diagnostic logs and runtime evidence are programmatically aggregated into an automated audit layout to demonstrate structural mitigation timelines against modern credential attacks.
 
 ## 🚀 Key Modules & Features
 
@@ -59,13 +59,19 @@ pip install -r requirements.txt
 ## 🖨️ Screenshots & Evidence
 *(Include active terminal execution flows here)*
 
-*Flask Authentication Laboratory Web UI:*
- ![Terminal 1](Bruite_Force_Simulator/Python%20scrrenshots/Terminal%201.png)
-
-*Burp Suite Proxy Interception Framework:*
- ![login 3](Bruite_Force_Simulator/Burpsuite%20screenshots/login%203.jpg)
+### 🖥️ 1. Flask Security Laboratory Gateway
+> **Description:** *Automated multi-threaded target execution matrix showing the localized authentication server initialization.*
+  
+![Terminal 1](Bruite_Force_Simulator/Python%20scrrenshots/Terminal%201.png)
 
 ---
 
-## ⚖️ Authorization Notice & Disclaimer
+### 🛡️ 2. Burp Suite Proxy Interception Framework
+> **Description:** *Live cryptographic HTTP POST request analysis and intruder payload verification metrics.*
+
+![login 3](Bruite_Force_Simulator/Burpsuite%20screenshots/login%203.jpg)
+
+---
+
+## ⚠️  Authorization Notice & Disclaimer
 All testing activities within this suite are designed strictly for authorized, controlled laboratory environments. Unauthorized deployment against external networks is strictly prohibited.
