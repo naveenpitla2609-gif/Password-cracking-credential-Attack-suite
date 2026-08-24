@@ -33,16 +33,16 @@ This native cybersecurity framework automates the evaluation of authentication s
 
 ## 🛠️ Installation & Setup
 
-```bash
-# Clone the repository
-git clone https://github.com
+1. **Clone the Repository:**  
+   Run the following complete command in your terminal to download the full project:  
+   
+   `git clone https://github.com`
 
-# Navigate into the project folder
-cd Credential-Attack-Strength-Suite
+2. **Navigate into the Folder:**  
+   `cd Password-cracking-credential-Attack-suite`
 
-# Install required framework dependencies
-pip install -r requirements.txt
-```
+3. **Install Requirements:**  
+   `pip install -r requirements.txt`
 
 ---
 
