@@ -35,7 +35,7 @@ This native cybersecurity framework automates the evaluation of authentication s
 
 ```bash
 # 1. Clone the full repository directly using the production link
-git clone https://github.com
+git clone https://github.com/naveenpitla2609-gif/Password-cracking-credential-Attack-suite.git
 
 # 2. Navigate into your structural project directory
 cd Password-cracking-credential-Attack-suite
