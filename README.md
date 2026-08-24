@@ -73,5 +73,17 @@ pip install -r requirements.txt
 
 ---
 
+## 🛡️ Remediation & Security Recommendations
+
+To mitigate the credential attack vectors simulated within this suite, implement the following production-grade security boundaries:
+
+* **Enforce High Entropy Policies:** Mandate passwords with a minimum of 14 characters, blending alphanumeric and unique symbol pools to resist dictionary generator modeling.
+* **Deploy Cryptographic Salt & Strong Hashing:** Abandon legacy routine structures; upgrade multi-platform authentication layers to use memory-hard functions like **Argon2id** or **bcrypt** with custom operational work factors.
+* **Implement Multi-Factor Authentication (MFA):** Enforce hardware-token or authenticator-app based MFA globally to neutralize successful brute-force and plaintext HTTP credential exposure.
+* **Enforce Rate Limiting & Account Lockouts:** Deploy account lockout thresholds and exponential back-off delays on API endpoints to break high-velocity automated multi-threaded attack streams.
+* **Establish Continuous Monitoring:** Configure localized host logs and web gateway proxy alerts to actively flag repetitive HTTP 401/403 status anomalies and unauthorized system hive read attempts.
+
+  ---
+  
 ## ⚠️  Authorization Notice & Disclaimer
 All testing activities within this suite are designed strictly for authorized, controlled laboratory environments. Unauthorized deployment against external networks is strictly prohibited.
