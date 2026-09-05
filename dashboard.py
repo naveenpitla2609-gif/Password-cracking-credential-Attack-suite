@@ -786,7 +786,7 @@ elif page == "🔐 Hash Extraction":
 
         st.success(
             "Password Recovery: Successful — "
-            "documented test password: cybersec2026"
+            "documented test password: 1122"
         )
 
         st.markdown("### 🔐 Hash Value")
